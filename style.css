@@ -289,7 +289,7 @@ position: relative;
     }
     81%,
     100%{
-        content: "Software Tester";  font-size: 1.4rem;
+        content: "UI/UX Designer";  font-size: 1.4rem;
     }
 }
 @keyframes typing{
@@ -350,6 +350,7 @@ article:hover{
     z-index: -1;
   }
   #about{
+   
     background-color: rgb(15, 14, 14,0.1);
   }
   .article2 h1{
@@ -670,6 +671,7 @@ font-family: monospace;
        }
      #about{
         display: block;
+       
         overflow: hidden;
 
        
@@ -730,6 +732,9 @@ font-family: monospace;
      .article1 img{
         width: 340px;
         margin-left: -30px;
+     }
+     article{
+        margin: 5px;
      }
      .about{
         margin: 20px;
