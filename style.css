@@ -690,9 +690,7 @@ font-family: monospace;
         border-radius: 20px;
         
      }
-     .main2 img {
-        margin-bottom: 20px;
-     }
+    
      .logo{
         font-size: 60px;
         font-weight: 800;
@@ -715,7 +713,19 @@ font-family: monospace;
     }
     .main2 img{
        padding: 10px;
+       
+       
+       margin-bottom: 20px;
+       align-items: center;
+       text-align: center;
+       height: 340px;
+       width: 340px;
     }
+    
+     main{
+        display: flex;
+        justify-content: center;
+     }
      
      .article1 img{
         width: 340px;
