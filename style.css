@@ -690,6 +690,16 @@ font-family: monospace;
         border-radius: 20px;
         
      }
+     .main2 img {
+        margin-bottom: 20px;
+     }
+     .logo{
+        font-size: 60px;
+        font-weight: 800;
+     }
+     #name{
+        font-size: 60px;
+     }
      .html1:hover,.html2:hover,.html3:hover,.html4:hover{
         background-color: rgb(25, 22, 22,0.5);
         transition: 0.5s;
@@ -703,7 +713,9 @@ font-family: monospace;
         padding-left: 30%;
         padding-bottom: 0;
     }
-    
+    .main2 img{
+       padding: 10px;
+    }
      
      .article1 img{
         width: 340px;
